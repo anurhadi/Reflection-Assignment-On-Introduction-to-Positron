@@ -1,0 +1,53 @@
+---
+title: "W07-Reflection Essay – Introduction to Positron"
+author: "Ari Nurhadi"
+date: "2026-03-11"
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+  echo: false
+  freeze: auto
+---
+
+# Reflection - Introduction to Positron
+
+## Installation and First Impressions
+
+> Download and Install Positron. Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+After downloading and installing Positron, I followed along with the instructional videos in Step 1 and Step 3 to become familiar with its layout and features. The installation process was straightforward, and the interface immediately felt modern and intuitive. As I navigated through the editor, console, and project structure, I noticed that Positron integrates tools in a way that feels more streamlined compared to RStudio.
+
+One of the most noticeable differences is the overall design and responsiveness of the interface. Positron feels cleaner and more aligned with contemporary development environments such as VS Code. The project-based workflow is intuitive, and Git integration appears more seamlessly embedded within the environment. While RStudio is reliable and widely used in statistical computing, Positron provides a more flexible and extensible experience that feels future-oriented.
+
+Another feature I appreciated is the tighter integration between coding, version control, and publishing with Quarto. The workflow from writing code to rendering documents feels cohesive and efficient. Overall, Positron gives the impression of being built not only for statistical analysis but also for modern collaborative and AI-assisted programming.
+
+## AI in Positron
+
+> Describe the various ways you can use AI inside Positron. Which AI tools have you installed? Which did you find beneficial? Apply for GitHub Copilot and evaluate whether it is helpful or distracting.
+
+Step 4 introduced the integration of artificial intelligence tools within Positron, which I found to be one of the most compelling aspects of the platform. AI inside Positron can be used in multiple ways, including generating code from natural language prompts, explaining existing code, debugging errors, suggesting re-factoring improvements, and even assisting with documentation. These capabilities transform the IDE from a passive coding environment into an interactive assistant that supports both productivity and learning.
+
+Some AI features are freely available, while others require subscription-based services. I set up GitHub Copilot through the GitHub Education program, which provides free access for eligible students. After being approved, I integrated Copilot into Positron and experimented with its code suggestions during small programming tasks.
+
+My experience with GitHub Copilot was largely positive. It significantly accelerated routine coding tasks by suggesting function structures, completing repetitive syntax, and offering alternative solutions that I might not have immediately considered. In particular, it was helpful when writing functions and when working with unfamiliar packages, as it provided suggestions that reduced the need to constantly search external documentation.
+
+However, I also noticed that AI assistance requires mindful usage. At times, suggestions appeared automatically, which could feel distracting if I was deeply focused on solving a problem independently. There is also the risk of overreliance, where one might accept suggestions without fully understanding the underlying logic. For this reason, I believe AI tools like Copilot are most beneficial when used as supplements to learning rather than replacements for critical thinking.
+
+## Applying for GitHub Copilot Education
+
+I applied for Github Education and was approved
+
+![](GitHub%20Education%20Approval.png)
+
+I found GitHub Copilot to be more helpful than distracting. When used intentionally, it increases efficiency, reduces minor syntax errors, and exposes users to alternative coding strategies. It represents a meaningful shift in how programmers interact with development environments.
+
+## Publishing to GitHub Pages
+
+> Publish this report to GitHub Pages and providea URL.
