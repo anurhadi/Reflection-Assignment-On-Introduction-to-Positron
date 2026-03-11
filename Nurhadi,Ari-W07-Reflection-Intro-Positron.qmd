@@ -43,9 +43,15 @@ However, I also noticed that AI assistance requires mindful usage. At times, sug
 
 ## Applying for GitHub Copilot Education
 
-I applied for Github Education and was approved
+::: callout-note
+**GitHub Copilot Education Approval**
 
-![](GitHub%20Education%20Approval.png)
+I applied for the GitHub Education program and was approved. Below is the screenshot showing the acceptance:
+
+![](copilot-approval.png){width="60%"}
+
+*Screenshot: GitHub Education approval for Copilot.*
+:::
 
 I found GitHub Copilot to be more helpful than distracting. When used intentionally, it increases efficiency, reduces minor syntax errors, and exposes users to alternative coding strategies. It represents a meaningful shift in how programmers interact with development environments.
 
