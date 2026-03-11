@@ -51,4 +51,12 @@ I found GitHub Copilot to be more helpful than distracting. When used intentiona
 
 ## Publishing to GitHub Pages
 
-> Publish this report to GitHub Pages and providea URL.
+> Publish this report to GitHub Pages and provide a URL.
+
+::: callout-important
+## Published Report
+
+You can view the final published report here:
+
+🔗 [View My GitHub Pages Report](https://anurhadi.github.io/Reflection-Assignment-On-Introduction-to-Positron/)
+:::
